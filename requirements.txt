@@ -1,16 +1,13 @@
 # Core dependencies
 python-dotenv>=1.0.0
 
-# YouTube API
-pytube>=15.0.0
-yt-dlp>=2023.0.0
+# YouTube transcript and download
+youtube-transcript-api>=0.6.0
+yt-dlp>=2024.0.0
 
 # LLM Integration
 openai>=1.0.0
 anthropic>=0.18.0
-
-# Video Processing
-moviepy>=1.0.3
 
 # Utilities
 requests>=2.31.0

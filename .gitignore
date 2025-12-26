@@ -70,5 +70,10 @@ Thumbs.db
 *.avi
 *.mov
 *.mkv
+*.m4a
+*.webm
 downloads/
 output/
+*.fcpxml
+cutlist.json
+transcript.txt
