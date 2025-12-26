@@ -1,33 +1,36 @@
-<p align="center">
-<img height="70" src="public/android-chrome-192x192.png">
-</p>
+# YouTube LLM Edit Tool
 
-<h1 align="center">Python Cheatsheet</h1>
+A tool for editing and processing YouTube content using Large Language Models.
 
-<div align="center">
-<a href="https://ggt.ink/ezMxYFe">pythoncheatsheet.org</a> |
-<a href="https://ggt.ink/PoVKNkO">Newsletter</a> |
-<a href="https://github.com/wilfredinni/python-cheatsheet/blob/next/src/pages/contributing.md">Contribute</a> |
-<a href="https://github.com/wilfredinni/python-cheatsheet/blob/next/src/pages/changelog.md">Changelog</a>
-</div>
-<br>
-<p align='center'>
-This <a href="https://www.pythoncheatsheet.org/">Python Cheatsheet</a> is based on the book <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a> and many other sources.
-</p>
+## Overview
 
-## Getting Started
+This project provides tools to help automate and enhance YouTube video editing workflows using LLM capabilities.
 
-Anyone can forget how to
-[make character classes](https://www.pythoncheatsheet.org/cheatsheet/regular-expressions#making-your-own-character-classes)
-for a regex, [slice a list](https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples#getting-sublists-with-slices) or do a [for loop](https://www.pythoncheatsheet.org/cheatsheet/control-flow#for-loop). This Python cheatsheet tries to provide basic reference for beginner and advanced developers, lower the entry barrier for newcomers and help veterans refresh the old tricks.
+## Features
 
-## Sponsors
+- Coming soon
 
-<div>
-<a
-  href="https://ggt.ink/PWTIPB9"
-  target="_blank">
-<img height="40" src="public/sponsors/kinsta/kinsta-logo-alpha-purple.png">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ggt.ink/n8bQd7t" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 190px !important;"></a>
-</div>
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python main.py
+```
+
+## Requirements
+
+- Python 3.8+
+- Additional dependencies listed in requirements.txt
+
+## License
+
+MIT License
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
